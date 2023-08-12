@@ -1,3 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body{
-    background-color: blue;
+    background-color: #f6f7fb;
+    font-family:sans-serif;
+   /* center the contents*/
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+}
+.container{
+    text-align: center;
+}
+.progress-container{
+    display:flex;
+    justify-content: space-between;
+    position:relative;
+  
+    margin-bottom: 30px;
+      /*why*/
+    max-width:100%;
+    width:350px
 }
