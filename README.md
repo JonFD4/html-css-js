@@ -1,3 +1,4 @@
 # Creating Projects with JavaScript, HTML and CSS
 
-## Creating steps
+## Creating progress steps
+[! progrees image](images/steps-image.png)
